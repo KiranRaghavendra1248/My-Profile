@@ -1,0 +1,23 @@
+body{
+  background-color:#e3fdfd;
+  font-family: 'Montserrat','Lexend', sans-serif;
+}
+hr{
+  border:None;
+  border-bottom:dotted #c9cfd1 6px;
+  width:5%;
+}
+h1{
+  color:#194350;
+  font-family: 'Montserrat',verdana,sans-serif;
+  font-weight: 600;
+}
+h3{
+  color:#194350;
+  font-family: 'Montserrat',verdana,sans-serif;
+  font-weight: 500;
+}
+
+a:hover{
+  color:#030008;
+}
